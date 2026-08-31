@@ -14,11 +14,17 @@ Currently focused on JavaScript & web development, while exploring backend devel
 
 ## 🚀 What I'm Up To
 🔨 Building projects to sharpen my development skills
+<br>
 🌐 Working with JavaScript, React, Node.js & Express
+<br>
 🗄️ Learning more about databases, APIs & backend architecture
+<br>
 🧠 Improving my problem-solving and algorithms
+<br>
 🛡️ Exploring cybersecurity
+<br>
 🎮 Occasionally disappearing into Roblox, Valorant, or CS
+<br>
 🌌 Still wondering how the universe works
 
 <br>
@@ -69,11 +75,17 @@ I'm especially interested in understanding how things actually work under the ho
 When I'm not staring at a terminal:
 
 🎮 Gaming
+<br>
 🎵 Music
+<br>
 🌌 Astrophysics & space
+<br>
 🧪 STEM
+<br>
 🎯 Aim training
+<br>
 🧠 Random Wikipedia rabbit holes
+<br>
 
 Sometimes I open my computer intending to code and somehow end up researching black holes for two hours.
 
@@ -88,8 +100,9 @@ while (alive) {
     repeat();
 }
 
+<br>
 I don't expect to know everything.
-
+<br>
 I just want to keep getting better at building things.
 
 <br>
