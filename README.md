@@ -57,14 +57,23 @@ Currently focused on JavaScript & web development, while exploring backend devel
 
 ## 🧠 Currently Learning
 JavaScript
+<br>
    ↓
+<br>
 Algorithms & Problem Solving
+<br>
    ↓
+<br>
 Backend Development
+<br>
    ↓
+<br>
 Full-Stack Applications
+<br>
    ↓
+<br>
 ??? ← probably another rabbit hole
+<br>
 
 I'm especially interested in understanding how things actually work under the hood, rather than just memorizing syntax.
 
@@ -93,11 +102,17 @@ Sometimes I open my computer intending to code and somehow end up researching bl
 
 ## 🌱 My Developer Philosophy
 while (alive) {
+<br>
     build();
+    <br>
     breakThings();
+    <br>
     debug();
+    <br>
     learn();
+    <br>
     repeat();
+    <br>
 }
 
 <br>
