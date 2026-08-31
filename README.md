@@ -80,11 +80,11 @@ I don't expect to know everything.
 I just want to keep getting better at building things.
 
 
-##🤝 Let's Connect
+## 🤝 Let's Connect
 
 If you're interested in web development, programming, gaming, or just want to talk about some random technical rabbit hole...
 
 feel free to say hi.
 
 
-##⭐ If you find something interesting in my repositories, consider giving it a star!
+## ⭐ If you find something interesting in my repositories, consider giving it a star!
