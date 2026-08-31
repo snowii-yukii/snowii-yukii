@@ -1,4 +1,5 @@
-## 👋 Hey, I'm Carmelino!
+# 👋 Hey, I'm Carmelino!
+
 ## 💻 Developer • 🎮 Gamer • 🎵 Music Enjoyer • 🌌 Curious Mind
 
 I'm a developer who enjoys building things, breaking things, and figuring out why they broke.
@@ -6,6 +7,7 @@ I'm a developer who enjoys building things, breaking things, and figuring out wh
 Currently focused on JavaScript & web development, while exploring backend development, cybersecurity, and whatever interesting rabbit hole I stumble into next.
 
 "I don't need to know everything. I just need to know how to figure it out."
+
 
 ## 🚀 What I'm Up To
 🔨 Building projects to sharpen my development skills
@@ -15,6 +17,7 @@ Currently focused on JavaScript & web development, while exploring backend devel
 🛡️ Exploring cybersecurity
 🎮 Occasionally disappearing into Roblox, Valorant, or CS
 🌌 Still wondering how the universe works
+
 
 
 ## 🛠️ Toolbox
@@ -33,6 +36,7 @@ Currently focused on JavaScript & web development, while exploring backend devel
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 
+
 ## 🧠 Currently Learning
 JavaScript
    ↓
@@ -45,6 +49,7 @@ Full-Stack Applications
 ??? ← probably another rabbit hole
 
 I'm especially interested in understanding how things actually work under the hood, rather than just memorizing syntax.
+
 
 ## 🎮 Outside of Code
 
@@ -60,6 +65,7 @@ When I'm not staring at a terminal:
 Sometimes I open my computer intending to code and somehow end up researching black holes for two hours.
 
 
+
 ## 🌱 My Developer Philosophy
 while (alive) {
     build();
@@ -73,10 +79,12 @@ I don't expect to know everything.
 
 I just want to keep getting better at building things.
 
+
 ##🤝 Let's Connect
 
 If you're interested in web development, programming, gaming, or just want to talk about some random technical rabbit hole...
 
 feel free to say hi.
+
 
 ##⭐ If you find something interesting in my repositories, consider giving it a star!
