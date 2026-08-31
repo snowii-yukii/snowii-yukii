@@ -103,15 +103,15 @@ Sometimes I open my computer intending to code and somehow end up researching bl
 ## 🌱 My Developer Philosophy
 while (alive) {
 <br>
-    build();
+    &ensp; build();
     <br>
-    breakThings();
+    &ensp; breakThings();
     <br>
-    debug();
+    &ensp; debug();
     <br>
-    learn();
+    &ensp; learn();
     <br>
-    repeat();
+    &ensp; repeat();
     <br>
 }
 
