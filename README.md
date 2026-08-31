@@ -1,5 +1,5 @@
-👋 Hey, I'm Carmelino!
-💻 Developer • 🎮 Gamer • 🎵 Music Enjoyer • 🌌 Curious Mind
+###👋 Hey, I'm Carmelino!
+##💻 Developer • 🎮 Gamer • 🎵 Music Enjoyer • 🌌 Curious Mind
 
 I'm a developer who enjoys building things, breaking things, and figuring out why they broke.
 
@@ -7,7 +7,7 @@ Currently focused on JavaScript & web development, while exploring backend devel
 
 "I don't need to know everything. I just need to know how to figure it out."
 
-🚀 What I'm Up To
+##🚀 What I'm Up To
 🔨 Building projects to sharpen my development skills
 🌐 Working with JavaScript, React, Node.js & Express
 🗄️ Learning more about databases, APIs & backend architecture
@@ -17,7 +17,7 @@ Currently focused on JavaScript & web development, while exploring backend devel
 🌌 Still wondering how the universe works
 
 
-### 🛠️ Toolbox
+##🛠️ Toolbox
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +33,7 @@ Currently focused on JavaScript & web development, while exploring backend devel
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 
-🧠 Currently Learning
+##🧠 Currently Learning
 JavaScript
    ↓
 Algorithms & Problem Solving
@@ -46,7 +46,7 @@ Full-Stack Applications
 
 I'm especially interested in understanding how things actually work under the hood, rather than just memorizing syntax.
 
-🎮 Outside of Code
+##🎮 Outside of Code
 
 When I'm not staring at a terminal:
 
@@ -60,7 +60,7 @@ When I'm not staring at a terminal:
 Sometimes I open my computer intending to code and somehow end up researching black holes for two hours.
 
 
-🌱 My Developer Philosophy
+##🌱 My Developer Philosophy
 while (alive) {
     build();
     breakThings();
@@ -73,10 +73,10 @@ I don't expect to know everything.
 
 I just want to keep getting better at building things.
 
-🤝 Let's Connect
+##🤝 Let's Connect
 
 If you're interested in web development, programming, gaming, or just want to talk about some random technical rabbit hole...
 
 feel free to say hi.
 
-⭐ If you find something interesting in my repositories, consider giving it a star!
+##⭐ If you find something interesting in my repositories, consider giving it a star!
