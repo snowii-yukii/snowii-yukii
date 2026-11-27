@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Software Developer who builds full-stack web apps with **Next.js, TypeScript, and Supabase**. I started coding in 2026 and have since shipped real projects, including a live clinic management system for a local dental clinic.
+I'm a full-stack developer who builds web apps with **Next.js, TypeScript, and Supabase**. I started coding in 2026 and have since shipped real projects, including a pilot clinic management system for a local dental clinic.
 
 I care about clean architecture, type-safe APIs, and interfaces that feel fast. I also use AI tools like Claude Code, Cursor and Antigravity as part of my workflow.
 
@@ -29,7 +29,7 @@ I care about clean architecture, type-safe APIs, and interfaces that feel fast. 
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| 🦷 **Halipa Dental Clinic System** | Clinic management and appointment system with online booking, live status tracking, and a staff operations portal (built for a real clinic) | Private client project |
+| 🦷 **Halipa Dental Clinic System** | Clinic management and appointment system with online booking, live status tracking, and a staff operations portal (pilot system) | Private client project |
 | 🔳 **QR Code Generator** | Fast, ad-free tool to generate and customize QR codes, with SVG, PNG, and PDF export | [Live](https://qrcodegenerator-virid.vercel.app) · [Code](https://github.com/snowii-yukii/qrcodegenerator) |
 | 🌦️ **WeatherPulse** | Weather dashboard with live data, hourly trends, and atmospheric metrics | [Live](https://weatherv2-inky.vercel.app) · [Code](https://github.com/snowii-yukii/weatherv2) |
 | 🎧 **Beats 3 Showcase** | Responsive product landing page with spring scroll animations | [Live](https://snowii-yukii.github.io/Responsive-Landing-Page/) · [Code](https://github.com/snowii-yukii/Responsive-Landing-Page) |
