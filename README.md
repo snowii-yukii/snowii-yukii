@@ -19,7 +19,7 @@
 
 I'm a self-taught developer who builds full-stack web apps with **Next.js, TypeScript, and Supabase**. I started coding in 2026 and have since shipped real projects, including a live clinic management system for a local dental clinic.
 
-I care about clean architecture, type-safe APIs, and interfaces that feel fast. I also use AI tools like Claude Code and Cursor as part of my workflow.
+I care about clean architecture, type-safe APIs, and interfaces that feel fast. I also use AI tools like Claude Code, Cursor and Antigravity as part of my workflow.
 
 > "I don't need to know everything. I just need to know how to figure it out."
 
@@ -67,6 +67,7 @@ More on my [portfolio](https://carmelinojadulco.vercel.app).
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/AI%20Agent-Google%20Antigravity-4285F4?logo=google&logoColor=white)
 
 ---
 
