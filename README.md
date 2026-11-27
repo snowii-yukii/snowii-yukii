@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a self-taught developer who builds full-stack web apps with **Next.js, TypeScript, and Supabase**. I started coding in 2026 and have since shipped real projects, including a live clinic management system for a local dental clinic.
+I'm a Software Developer who builds full-stack web apps with **Next.js, TypeScript, and Supabase**. I started coding in 2026 and have since shipped real projects, including a live clinic management system for a local dental clinic.
 
 I care about clean architecture, type-safe APIs, and interfaces that feel fast. I also use AI tools like Claude Code, Cursor and Antigravity as part of my workflow.
 
